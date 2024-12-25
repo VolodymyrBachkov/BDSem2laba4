@@ -1,0 +1,5 @@
+id,first_name,last_name,email,bio
+1,Alice,Brown,alice.brown@example.com,Experienced Python instructor
+2,Bob,Taylor,bob.taylor@example.com,Expert in web development
+3,Carol,Evans,carol.evans@example.com,Data Science professional
+4,Diana,White,diana.white@example.com,Machine Learning specialist

@@ -1,0 +1,79 @@
+[
+    {
+        "email": "john.doe@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "John",
+        "id": 1,
+        "last_name": "Doe"
+    },
+    {
+        "email": "chris.brown@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "Chris",
+        "id": 2,
+        "last_name": "Brown"
+    },
+    {
+        "email": "jane.smith@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "Jane",
+        "id": 3,
+        "last_name": "Smith"
+    },
+    {
+        "email": "sarah.wilson@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "Sarah",
+        "id": 4,
+        "last_name": "Wilson"
+    },
+    {
+        "email": "michael.johnson@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "Michael",
+        "id": 5,
+        "last_name": "Johnson"
+    },
+    {
+        "email": "emily.davis@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "Emily",
+        "id": 6,
+        "last_name": "Davis"
+    },
+    {
+        "email": "david.anderson@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "David",
+        "id": 7,
+        "last_name": "Anderson"
+    },
+    {
+        "email": "emma.moore@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "Emma",
+        "id": 8,
+        "last_name": "Moore"
+    },
+    {
+        "email": "james.taylor@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "James",
+        "id": 9,
+        "last_name": "Taylor"
+    },
+    {
+        "email": "sophia.martin@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "Sophia",
+        "id": 10,
+        "last_name": "Martin"
+    },
+    {
+        "email": "daniel.lee@example.com",
+        "enrollment_date": "2024-12-25 17:50:31.628041",
+        "first_name": "Daniel",
+        "id": 11,
+        "last_name": "Lee"
+    }
+]

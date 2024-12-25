@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Learn Python from scratch",
+        "id": 1,
+        "name": "Python Programming",
+        "price": 199.99
+    },
+    {
+        "description": "Introduction to Data Science",
+        "id": 2,
+        "name": "Data Science",
+        "price": 299.99
+    },
+    {
+        "description": "Master web technologies",
+        "id": 3,
+        "name": "Web Development",
+        "price": 249.99
+    },
+    {
+        "description": "Learn machine learning fundamentals",
+        "id": 4,
+        "name": "Machine Learning",
+        "price": 349.99
+    }
+]

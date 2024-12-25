@@ -1,0 +1,12 @@
+id,first_name,last_name,email,enrollment_date
+1,John,Doe,john.doe@example.com,2024-12-25 17:50:31.628041
+2,Chris,Brown,chris.brown@example.com,2024-12-25 17:50:31.628041
+3,Jane,Smith,jane.smith@example.com,2024-12-25 17:50:31.628041
+4,Sarah,Wilson,sarah.wilson@example.com,2024-12-25 17:50:31.628041
+5,Michael,Johnson,michael.johnson@example.com,2024-12-25 17:50:31.628041
+6,Emily,Davis,emily.davis@example.com,2024-12-25 17:50:31.628041
+7,David,Anderson,david.anderson@example.com,2024-12-25 17:50:31.628041
+8,Emma,Moore,emma.moore@example.com,2024-12-25 17:50:31.628041
+9,James,Taylor,james.taylor@example.com,2024-12-25 17:50:31.628041
+10,Sophia,Martin,sophia.martin@example.com,2024-12-25 17:50:31.628041
+11,Daniel,Lee,daniel.lee@example.com,2024-12-25 17:50:31.628041

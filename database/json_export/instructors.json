@@ -1,0 +1,30 @@
+[
+    {
+        "bio": "Experienced Python instructor",
+        "email": "alice.brown@example.com",
+        "first_name": "Alice",
+        "id": 1,
+        "last_name": "Brown"
+    },
+    {
+        "bio": "Expert in web development",
+        "email": "bob.taylor@example.com",
+        "first_name": "Bob",
+        "id": 2,
+        "last_name": "Taylor"
+    },
+    {
+        "bio": "Data Science professional",
+        "email": "carol.evans@example.com",
+        "first_name": "Carol",
+        "id": 3,
+        "last_name": "Evans"
+    },
+    {
+        "bio": "Machine Learning specialist",
+        "email": "diana.white@example.com",
+        "first_name": "Diana",
+        "id": 4,
+        "last_name": "White"
+    }
+]

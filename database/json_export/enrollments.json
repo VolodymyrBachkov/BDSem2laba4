@@ -1,0 +1,38 @@
+[
+    {
+        "course_id": 1,
+        "enrollment_date": "2024-12-25 17:50:31.630041",
+        "id": 1,
+        "student_id": 1
+    },
+    {
+        "course_id": 1,
+        "enrollment_date": "2024-12-25 17:50:31.630041",
+        "id": 2,
+        "student_id": 2
+    },
+    {
+        "course_id": 2,
+        "enrollment_date": "2024-12-25 17:50:31.630041",
+        "id": 3,
+        "student_id": 3
+    },
+    {
+        "course_id": 2,
+        "enrollment_date": "2024-12-25 17:50:31.630041",
+        "id": 4,
+        "student_id": 4
+    },
+    {
+        "course_id": 3,
+        "enrollment_date": "2024-12-25 17:50:31.630041",
+        "id": 5,
+        "student_id": 5
+    },
+    {
+        "course_id": 4,
+        "enrollment_date": "2024-12-25 17:50:31.630041",
+        "id": 6,
+        "student_id": 6
+    }
+]

@@ -1,0 +1,5 @@
+id,student_id,course_id,rating,comment,review_date
+1,1,1,5,Great course!,2024-12-25 17:50:31.632041
+2,3,2,4,Very informative.,2024-12-25 17:50:31.632041
+3,5,3,5,Excellent instructor!,2024-12-25 17:50:31.632041
+4,6,4,4,'Challenging, but worth it.',2024-12-25 17:50:31.632041
